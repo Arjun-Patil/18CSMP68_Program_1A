@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VisitingCard</string>
+    <string name="company_name">KARATE ASSOCIATION OF INDIA</string>
+    <string name="LOGO">LOGO</string>
+    <string name="background">bg</string>
+    <string name="ISo">AN ISO 9001 : 2008 CERTIFIED KARATE ASSOCIATION</string>
+    <string name="approve">Approved by :</string>
+    <string name="approbe">All India Karate-Do Federation (AIKF)</string>
+    <string name="footer">COME PRACTICE WITH US</string>
+    <string name="phone">M: +91 9741974708</string>
+    <string name="email">Email : arjunshivaji100@gmail.com</string>
+    <string name="img">myImage</string>
+    <string name="sensei">Sensie.</string>
+    <string name="KAI"> Black Belt 1st Dan KAI</string>
+    <string name="address"> Hindalco Bauxite Road, 1st Cross Basava Colony, Belgaum</string>
+    <string name="USKA"> Black Belt 1st Dan USKA</string>
+    <string name="job"> Instructor &amp; Examiner</string>
+    <string name="name"> Arjun Patil</string>
+    <string name="main">Member of World Karate Federation, Asian Karate Federation. Recognised by: Indian Olympic Association. Govt Of India (Ministry of Sports &amp; Youth Affairs) International Olympic Committee.</string>
+
+
+</resources>
